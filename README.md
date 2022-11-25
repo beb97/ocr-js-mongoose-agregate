@@ -1,0 +1,3 @@
+# Sopekocko #
+
+Mongoose test project
